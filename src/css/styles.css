@@ -3031,8 +3031,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #2937f0;
-  border-color: #2937f0;
+  background-color: #003a66;
+  border-color: #003a66;
 }
 .btn-primary:hover {
   color: #fff;
@@ -11296,7 +11296,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+  background: linear-gradient(45deg, #003a66, #24567C) !important;
 }
 
 .font-alt {
@@ -11623,5 +11623,5 @@ footer a:hover, footer a:active, footer a:focus {
   }
 }
 .img-biess{
-  width: 8em;
+  width: 5em;
 }
